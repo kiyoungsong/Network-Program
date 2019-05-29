@@ -1,0 +1,24 @@
+C:\Users\thdrl\Source\Repos\messanger\messanger\bin\Debug\messanger.exe.config
+C:\Users\thdrl\Source\Repos\messanger\messanger\bin\Debug\messanger.exe
+C:\Users\thdrl\Source\Repos\messanger\messanger\bin\Debug\messanger.pdb
+C:\Users\thdrl\Source\Repos\messanger\messanger\obj\Debug\messanger.csprojAssemblyReference.cache
+C:\Users\thdrl\Source\Repos\messanger\messanger\obj\Debug\messanger.Properties.Resources.resources
+C:\Users\thdrl\Source\Repos\messanger\messanger\obj\Debug\messanger.csproj.GenerateResource.cache
+C:\Users\thdrl\Source\Repos\messanger\messanger\obj\Debug\messanger.csproj.CoreCompileInputs.cache
+C:\Users\thdrl\Source\Repos\messanger\messanger\obj\Debug\messanger.exe
+C:\Users\thdrl\Source\Repos\messanger\messanger\obj\Debug\messanger.pdb
+C:\Users\thdrl\Source\Repos\messanger\messanger\obj\Debug\messanger.LoginForm.resources
+C:\Users\thdrl\Source\Repos\messanger\messanger\obj\Debug\messanger.chatroomForm.resources
+C:\Users\thdrl\Source\Repos\messanger\messanger\obj\Debug\messanger.chatbox.resources
+C:\Users\thdrl\Source\Repos\messanger\messanger\obj\Debug\messanger.bubble.resources
+C:\Users\song\Desktop\messanger (2)\messanger\bin\Debug\messanger.exe.config
+C:\Users\song\Desktop\messanger (2)\messanger\bin\Debug\messanger.exe
+C:\Users\song\Desktop\messanger (2)\messanger\bin\Debug\messanger.pdb
+C:\Users\song\Desktop\messanger (2)\messanger\obj\Debug\messanger.csprojAssemblyReference.cache
+C:\Users\song\Desktop\messanger (2)\messanger\obj\Debug\messanger.LoginForm.resources
+C:\Users\song\Desktop\messanger (2)\messanger\obj\Debug\messanger.chatroomForm.resources
+C:\Users\song\Desktop\messanger (2)\messanger\obj\Debug\messanger.Properties.Resources.resources
+C:\Users\song\Desktop\messanger (2)\messanger\obj\Debug\messanger.csproj.GenerateResource.cache
+C:\Users\song\Desktop\messanger (2)\messanger\obj\Debug\messanger.csproj.CoreCompileInputs.cache
+C:\Users\song\Desktop\messanger (2)\messanger\obj\Debug\messanger.exe
+C:\Users\song\Desktop\messanger (2)\messanger\obj\Debug\messanger.pdb
